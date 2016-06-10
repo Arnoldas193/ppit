@@ -1,0 +1,13 @@
+int main ()
+{
+	cout << "Program which performs addition, subtraction, multiplication and subtraction. \n\n";
+	
+	cout << "Please input calculation operation (eg. 1 + 2): \n";
+	cin >> a >> operation >> b;
+	
+	Input (a,b);
+
+	cout << "The answer is: " << result << endl;
+	system ("pause");
+	return 0;
+}
