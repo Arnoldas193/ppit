@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+// input function
+void Input (float &x, float &y);
+
+float a=1.0, b=1.0, result;
+char operation;
